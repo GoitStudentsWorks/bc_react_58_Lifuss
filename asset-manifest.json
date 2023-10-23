@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bc_react_58_Lifuss/static/css/main.36380e2b.css",
-    "main.js": "/bc_react_58_Lifuss/static/js/main.410c48e2.js",
+    "main.js": "/bc_react_58_Lifuss/static/js/main.6333a399.js",
     "static/js/475.aab337c2.chunk.js": "/bc_react_58_Lifuss/static/js/475.aab337c2.chunk.js",
     "static/js/35.b153dd2e.chunk.js": "/bc_react_58_Lifuss/static/js/35.b153dd2e.chunk.js",
     "static/js/2.9b7ffbd6.chunk.js": "/bc_react_58_Lifuss/static/js/2.9b7ffbd6.chunk.js",
@@ -34,7 +34,7 @@
     "index.html": "/bc_react_58_Lifuss/index.html",
     "static/media/straight_line.svg": "/bc_react_58_Lifuss/static/media/straight_line.af8513ecc3ad6b6637fe1f628e65400e.svg",
     "main.36380e2b.css.map": "/bc_react_58_Lifuss/static/css/main.36380e2b.css.map",
-    "main.410c48e2.js.map": "/bc_react_58_Lifuss/static/js/main.410c48e2.js.map",
+    "main.6333a399.js.map": "/bc_react_58_Lifuss/static/js/main.6333a399.js.map",
     "475.aab337c2.chunk.js.map": "/bc_react_58_Lifuss/static/js/475.aab337c2.chunk.js.map",
     "35.b153dd2e.chunk.js.map": "/bc_react_58_Lifuss/static/js/35.b153dd2e.chunk.js.map",
     "2.9b7ffbd6.chunk.js.map": "/bc_react_58_Lifuss/static/js/2.9b7ffbd6.chunk.js.map",
@@ -54,6 +54,6 @@
   },
   "entrypoints": [
     "static/css/main.36380e2b.css",
-    "static/js/main.410c48e2.js"
+    "static/js/main.6333a399.js"
   ]
 }
